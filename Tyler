@@ -1,0 +1,6 @@
+echo "# Tyler" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tnel1089/Tyler.git
+git push -u origin master
